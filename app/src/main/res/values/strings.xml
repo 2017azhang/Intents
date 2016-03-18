@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment6</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="redskins_spinner">
+        <item>Sammy Baugh</item>
+        <item>Sonny Jurgensen</item>
+        <item>Joe Thiesmann</item>
+        <item>John Riggins</item>
+        <item>Joe Jacoby</item>
+        <item>Russ Grimm</item>
+        <item>Jeff Bostic</item>
+        <item>Art Monk</item>
+        <item>Gary Clark</item>
+        <item>Darrell Green</item>
+        <item>Dexter Manley</item>
+        <item>Doug Williams</item>
+        <item>Mark Rypien</item>
+        <item>Lavar Arrington</item>
+        <item>Chris Samuels</item>
+        <item>Clinton Portis</item>
+        <item>Santana Moss</item>
+        <item>Sean Taylor</item>
+        <item>Robert Griffin III</item>
+        <item>Alfred Morris</item>
+        <item>Jordan Reed</item>
+        <item>Kirk Cousins</item>
+    </string-array>
+</resources>
